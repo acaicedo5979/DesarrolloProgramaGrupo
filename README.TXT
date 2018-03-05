@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+El proyecto consiste en un programa en el cual estudiantes o profesores puedan introducir un número de calificaciones (input) las cuales representan las notas de los estudiantes, el programa realizara los calculos necesarios para devolver (output) la media, mediana y moda de estas calificaciones. 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+TITULO DEL PROYECTO: Calculadora de Calificaciones
+VERSION: v1.0  
+AUTORES: Catalina Castellanos Sierra, Andres Camilo Caicedo Rios, Andres Cuellar Cossio
+INSTRUCCIONES: Introducir el número de notas y las calificaciones que cada nota representa para recibir los calculos de media, mediana y moda
